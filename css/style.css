@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: "Lato", sans-serif;
+  }
+  #title {
+    text-align: center;
+    background-color: rgb(182, 182, 182);
+    padding: 10px;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  #img-div {
+    text-align: center;
+  }
+  #tribute-info {
+    max-width: 1000px;
+    margin: 30px auto;
+    font-size: 1.2em;
+  }
+  .info-title {
+    font-size: 1.5em;
+    text-align: center;
+  }
+  li {
+    margin: 10px 0;
+  }
+  .footer {
+    font-weight: bold;
+    font-size: 1.3em;
+    text-align: center;
+    margin-top: 15px;
+  }
+  
